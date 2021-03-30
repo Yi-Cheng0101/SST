@@ -1,0 +1,10 @@
+# Fill in lines 8-10
+# For configuration, put the string you used in the --model-options parameter for the script. Include the ENTIRE string with the option flags.
+# EXAMPLE: 
+#   Configuration: -n=40 -c=fast -t=no -l1=big -l2=small -s=private -l3=small -w=6 -b=slow -m=basic
+#   Cost: 1048
+#   Simulation time: 49.9587 us
+
+Configuration:
+Cost:
+Simulation time:
