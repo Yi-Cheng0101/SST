@@ -33,8 +33,7 @@ $$
 
 
 ## Some modification
-* 1. 
-
+* [15:17] SST測資更新: 最大 cost 上限改為 3500 (原本是 5000)；第 219 行的 its 改成 1
 
 ### Table
 
